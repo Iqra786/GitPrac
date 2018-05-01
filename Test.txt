@@ -1,2 +1,2 @@
-Hi, This line added in Feature1
-Hi, This line added in Feature1 line2
+This code added in HotFix1
+This code added in HotFix1 line2
